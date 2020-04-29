@@ -2,6 +2,7 @@
 	"[markdown]": {
 		"files.trimTrailingWhitespace": false
 	},
+	"diffEditor.ignoreTrimWhitespace": false,
 	"editor.cursorBlinking": "phase",
 	"editor.fontFamily": "Fira Code",
 	"editor.fontLigatures": true,
@@ -10,7 +11,10 @@
 	"explorer.sortOrder": "type",
 	"files.insertFinalNewline": true,
 	"files.trimTrailingWhitespace": true,
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"python.linting.enabled": false,
 	"terminal.integrated.fontSize": 13,
+	"typescript.updateImportsOnFileMove.enabled": "always",
 	"window.zoomLevel": 0,
 	"workbench.colorTheme": "One Monokai",
 	"workbench.iconTheme": "material-icon-theme",
