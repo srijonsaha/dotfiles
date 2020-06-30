@@ -1,3 +1,6 @@
+# Node
+export NODE_PATH=/usr/local/lib/node_modules
+
 # Python 3
 export PYTHON3PATH=/usr/local/opt/python/libexec/bin
 
