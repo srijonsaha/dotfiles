@@ -23,7 +23,10 @@
 	"terminal.integrated.fontSize": 13,
 	"typescript.updateImportsOnFileMove.enabled": "always",
 	"window.zoomLevel": 1,
-	"workbench.colorTheme": "One Monokai",
+	"workbench.colorTheme": "GitHub Dark",
 	"workbench.iconTheme": "material-icon-theme",
-	"workbench.startupEditor": "newUntitledFile"
+	"workbench.startupEditor": "newUntitledFile",
+	"[vue]": {
+		"editor.defaultFormatter": "octref.vetur"
+	}
 }
