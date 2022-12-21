@@ -1,0 +1,16 @@
+[user]
+    name = Srijon Saha
+    email = srijon365@gmail.com
+    signingkey = 0BB371EEDC61CCDD
+[init]
+    defaultBranch = main
+[commit]
+    gpgsign = true
+[tag]
+    gpgSign = true
+[core]
+    editor = code --wait
+[gpg]
+    program = gpg
+[push]
+    gpgSign = if-asked

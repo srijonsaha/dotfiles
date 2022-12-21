@@ -1,0 +1,14 @@
+# === Aliases ===
+
+# Configs
+alias zshconfig="code ~/.zshrc"
+alias aliasconfig="code ~/.zsh_aliases"
+
+# Git
+alias ga="git add"
+alias gb="git branch -v"
+alias gc="git commit"
+alias gco="git checkout"
+alias gl="git log"
+alias gp="git push origin HEAD"
+alias gs="git status"
